@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    /* margin-left: 5%; */
+    align-items: center;
+    
+    gap: 2rem;
+    color: black;
+    /* justify-content: center; */
+}
+.logo {
+    height: 30px;
+    margin-left: 5%;
+    padding: 1.5rem;
+    
+}
+.nav__links {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-left: 14%;
+    margin-right: 5%;
+    /* flex-wrap: wrap; */
+}
+.signUp__button {
+    background-color: rgb(43, 172, 43);
+    padding: 0.6rem;
+    border: none;
+    color: white;
+}
+.contact__info {
+    color: rgb(121, 115, 115);
+}

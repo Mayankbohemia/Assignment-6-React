@@ -1,0 +1,23 @@
+.info__image{
+    height: 150px;
+    width: 150px;
+}
+.info__container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    justify-content: center;
+    margin-top: 2rem;
+    align-items: center;
+    gap: 1rem;
+    
+   
+
+}
+.main {
+    display: flex;
+    gap: 4rem;
+}
+h6 {
+    color: rgb(121, 115, 115);
+}
